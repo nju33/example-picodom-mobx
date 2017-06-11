@@ -1,5 +1,4 @@
 import {h, patch} from 'picodom/dist/picodom';
-import {observable, autorun} from 'mobx';
 import bind from 'lodash-decorators/bind';
 import debounce from 'lodash-decorators/debounce';
 import cond from 'lodash/cond';
